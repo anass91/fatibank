@@ -29,7 +29,7 @@
     }
     .heading-001 strong{
         margin-top: 20px;
-        font-size: 2.6rem;
+        font-size: 2.3rem;
     }
     .aside-right{
         display: flex;
@@ -39,6 +39,7 @@
         width: 100%;
     }
     .form-enter{
+        margin:0 !important;
         width: 100% !important;
         padding: 1rem 2rem;
     }
